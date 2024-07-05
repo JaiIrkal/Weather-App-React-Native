@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "frontend",
-    "slug": "frontend",
+    "name": "WeatherWhiz",
+    "slug": "WeatherWhiz",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/cloudy-sun.png",
@@ -18,10 +18,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/cloudy-sun.png",
         "backgroundColor": "#0047AB"
-      }
+      },
+      "package": "com.jairkal.WeatherWhiz"
     },
     "web": {
       "favicon": "./assets/cloudy-sun.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d280c037-7806-4cf5-a8ea-f456b392fb89"
+      }
     }
   }
 }

@@ -12,7 +12,11 @@ export const weatherImages = {
     'Thunderstorm':require('../assets/thunderstorm.png'),
     'Heavy rain at times':require('../assets/heavy-rain.png'),
     'Partly cloudy':require('../assets/cloudy-sun.png'),
+    'Partly Cloudy':require('../assets/cloudy-sun.png'),
     'Mist':require('../assets/mist.png'),
     'Light rain shower':require('../assets/patchy-rain.png'),
+    'Patchy light rain':require('../assets/patchy-rain.png'),
+    'Patchy rain possible':require('../assets/patchy-rain.png'),
     'Moderate rain at times':require('../assets/patchy-rain.png'),
+    'Moderate or heavy rain shower':require('../assets/heavy-rain.png'),
 }

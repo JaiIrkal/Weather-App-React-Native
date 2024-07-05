@@ -297,14 +297,15 @@ const styles = StyleSheet.create({
         fontWeight: '700'
     },
     img: {
-        height: 120,
+        height: 130,
         width: 130
     },
     imageView: {
         justifyContent: 'center',
         marginTop: 40,
         flexDirection: 'column',
-        justifyContent: 'space-evenly'
+        justifyContent: 'space-evenly',
+        marginBottom:10
     },
     forecastCountryName: {
         color: colors.lightGrey,
