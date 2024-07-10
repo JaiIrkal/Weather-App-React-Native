@@ -7,8 +7,6 @@ A React Native application that provides weather information for different locat
 - Display current weather information including temperature, humidity, and wind speed.
 - Search for weather information by city name.
 - Show the weather forecast for the next week.
-- Attractive and intuitive user interface.
-- Supports both Android and iOS platforms.
 
 ## Installation
 
