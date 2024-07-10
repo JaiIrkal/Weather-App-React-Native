@@ -13,6 +13,7 @@ export const weatherImages = {
     'Moderate or heavy rain with thunder':require('../assets/thunderstorm.png'),
     'Thunderstorm':require('../assets/thunderstorm.png'),
     'Thundery outbreaks possible':require('../assets/thunderstorm.png'),
+    'Thundery outbreaks possible ':require('../assets/thunderstorm.png'),
     'Heavy rain at times':require('../assets/heavy-rain.png'),
     'Heavy rain':require('../assets/heavy-rain.png'),
     'Partly cloudy':require('../assets/cloudy-sun.png'),
